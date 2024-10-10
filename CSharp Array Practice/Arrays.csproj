@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>CSharp_Array_Practice</RootNamespace>
+    <RootNamespace>Arrays</RootNamespace>
   </PropertyGroup>
 
 </Project>
